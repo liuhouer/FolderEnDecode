@@ -1,2 +1,2 @@
 # FolderEnDecode
-xp下面文件夹加密 written 不要
+xp下面文件夹加密 written By bruce tools by delphi7
